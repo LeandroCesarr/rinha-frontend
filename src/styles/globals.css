@@ -1,0 +1,10 @@
+@tailwind base;
+
+@tailwind components;
+@import "components/button.css";
+
+@tailwind utilities;
+
+body {
+  background: linear-gradient(to right, #DD2476, #FF512F);
+}
